@@ -64,7 +64,7 @@
 
 **✅ Документация**
 - [Чек-лист](https://docs.google.com/spreadsheets/d/1aCQqd8QChLJ9T9uReMJLhqSx865kAed6iHSZdQdgPtQ/edit?gid=0#gid=0)
-- [Тест-кейсы (PDF)](./ТЕСТ_КЕЙС_ГОТОВЫЙ.pdf)
+- [Тест-кейсы (PDF)](./Test-cases(Интернет-магазин).pdf)
 - [Баги](https://docs.google.com/document/d/1d8qXX-GoV3kvTi22xkIR_6lgPcHgduH_vKplckXqwOU/edit?tab=t.0)
 - [Поиск багов через DevTools Network](https://docs.google.com/document/d/1BBMG3QdKZ0YAPX186hMWgs8bIZ2CRP3HfqJ4G-MQFHw/edit?tab=t.0#heading=h.koyxj88x2uvk)
 
