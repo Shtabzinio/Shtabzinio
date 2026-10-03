@@ -11,7 +11,7 @@
 - 🔍 Junior QA Engineer, ищу возможность применить знания на реальных проектах
 - 📈 Постоянно усовершенствуюсь, слежу за новыми практиками в тестировании
 - 🚀 Открыт к стажировкам и junior-вакансиям
-- 🏀 В свободное время люблю спорт, а именно баскетбол
+- 🏀 Вне работы отдаю предпочтение активному отдыху и командным видам спорта, в частности баскетболу
 - 🎓 Студент, 20 лет
 
 ---
@@ -64,9 +64,19 @@
 
 **✅ Документация**
 - [Чек-лист](https://docs.google.com/spreadsheets/d/1aCQqd8QChLJ9T9uReMJLhqSx865kAed6iHSZdQdgPtQ/edit?gid=0#gid=0)
-- [Тест-кейсы (PDF)](./Test-cases(Интернет-магазин).pdf)
+- [Тест-кейсы (PDF)](./Тest-cases(Интернет-магазин).pdf)
 - [Баги](https://docs.google.com/document/d/1d8qXX-GoV3kvTi22xkIR_6lgPcHgduH_vKplckXqwOU/edit?tab=t.0)
 - [Поиск багов через DevTools Network](https://docs.google.com/document/d/1BBMG3QdKZ0YAPX186hMWgs8bIZ2CRP3HfqJ4G-MQFHw/edit?tab=t.0#heading=h.koyxj88x2uvk)
+
+</details>
+
+<details open>
+<summary><b>🧪 Практический кейс: тестирование HSM (Hierarchical Sensor Monitoring)</b></summary>
+<br>
+
+Провёл исследовательское тестирование стороннего продукта для иерархического мониторинга сенсоров — незнакомой системы без заранее подготовленной документации. Самостоятельно разобрался в логике продукта, нашёл и задокументировал дефекты.
+
+- [Отчёт с найденными дефектами](https://docs.google.com/document/d/14NsT2OoUeu-_1Nt4ZBnnxAPMUVysxSsE-AmDjpF-6Dg/edit?tab=t.0)
 
 </details>
 
@@ -76,8 +86,8 @@
 
 <div align="center">
 
-<a href="mailto:o.y.t.d.l.i.s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:daniil.shtabny@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shtabnydaniil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
